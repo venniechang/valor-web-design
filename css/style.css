@@ -111,6 +111,7 @@ header a:hover{
 
 #newsletter h1{
     float: left;
+    margin-right: 50px;
 }
 
 #newsletter form{
@@ -146,7 +147,7 @@ header a:hover{
 aside#sidebar{
     float: right;
     width: 30%;
-    margin-top: 10px;
+    margin-top: 70px;
 }
 
 aside#sidebar .quote input, aside#sidebar .quote textarea{
@@ -159,6 +160,7 @@ aside#sidebar .quote input, aside#sidebar .quote textarea{
 article#main-col{
     float:left;
     width: 65%;
+    margin-top: 20px;
 }
 
 /* Services */
